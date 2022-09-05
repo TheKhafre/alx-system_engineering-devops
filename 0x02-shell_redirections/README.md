@@ -3,3 +3,4 @@ Write a script that duplicates the last line of the file iacta
 Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 Task 11: Write a script that counts the number of directories and sub-directories in the current directory.
 Task 12: Create a script that displays the 10 newest files in the current directory. one file per line and sorted from newest
+Display lines containing the pattern “root” from the file /etc/passwd
